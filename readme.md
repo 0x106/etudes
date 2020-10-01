@@ -16,5 +16,5 @@ Daily / competitive programming practice.
 **Todo**
 
 [x] write new problem template
-
+[ ] pull all problems, write template stubs, save test files, write compile / test scripts
 **Notes**
