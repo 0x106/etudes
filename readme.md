@@ -17,4 +17,6 @@ Daily / competitive programming practice.
 
 - [x] write new problem template
 - [ ] pull all problems, write template stubs, save test files, write compile / test scripts
+- [ ] don't need individual compile scripts for each problem
+
 **Notes**
